@@ -7,5 +7,5 @@ wget -O autoupdate.sh https://raw.githubusercontent.com/younasiqw/AutoUpdate-Lin
 ```
 Auto Update Pro
 ```
-wget -O autoupdate.sh https://raw.githubusercontent.com/younasiqw/AutoUpdate-Linux/refs/heads/main/auto_update_pro.sh && chmod +x auto_update_pro.sh && sudo ./auto_update_pro.sh
+wget -O auto_update_pro.sh https://raw.githubusercontent.com/younasiqw/AutoUpdate-Linux/refs/heads/main/auto_update_pro.sh && chmod +x auto_update_pro.sh && sudo ./auto_update_pro.sh
 ```
